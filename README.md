@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yuki1225
+- 👋 Hi, I’m Yuki
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...C&C++
+- 🌱 I’m currently learning ...C&C++ Java algorithm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...2456909487@qq.com
 
